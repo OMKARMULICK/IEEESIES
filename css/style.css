@@ -1798,8 +1798,16 @@ h3.tittle {
         height: 500px;
       }
 .marque {
-    color: #fff;
-    font-family: 'Saira', sans-serif;
+     font-weight: 1600;
+     font-size: 14.2px !important;
+     color: #fff;
+     margin-top: 2px;
+}
+
+.marque-main {
+     font-weight: 1600;
+     color: #fff;
+     
 }
 
 
