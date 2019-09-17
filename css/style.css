@@ -1194,6 +1194,11 @@ li.linkedin a {
     background: #0077b5;
 }
 
+li.instagram a {
+    color: #fff;
+    background: #e4405f;
+}
+
 ul.social_section_1info a:hover {
     opacity: 0.8;
 }
